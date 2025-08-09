@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="AdditionalModuleElements">
+    <content url="jar://$USER_HOME$/Downloads/postgresql-42.7.7.jar!/" />
+    <content url="jar://$USER_HOME$/Downloads/sqlite-jdbc-3.50.3.0.jar!/" />
+  </component>
+</module>
